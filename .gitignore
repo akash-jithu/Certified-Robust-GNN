@@ -1,0 +1,17 @@
+# Large UNSW-NB15 datasets
+/Data/Raw/unsw_nb15/UNSW-NB15_1.csv
+/Data/Raw/unsw_nb15/UNSW-NB15_2.csv
+/Data/Raw/unsw_nb15/UNSW-NB15_3.csv
+/Data/Raw/unsw_nb15/UNSW-NB15_4.csv
+/Data/Processed/unsw_nb15_combined.csv
+
+# Python environments and cache
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Generated model files
+*.pt
+*.pth
+*.ckpt
